@@ -1,4 +1,3 @@
-# Antigravity Chess Engine
 
 A Python-based chess engine with a React UI.
 
